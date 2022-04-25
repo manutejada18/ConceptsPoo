@@ -1,4 +1,4 @@
-﻿//C:\Proyectos\Csharp Ruta donde esta la Carpeta "ConceptsPoo"
+﻿//C:\Proyectos\Csharp , ruta donde esta la Carpeta "ConceptsPoo"
 using ConceptsPoo;
 
 Console.WriteLine("Hello, World!");
