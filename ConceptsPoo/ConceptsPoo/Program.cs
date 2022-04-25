@@ -1,5 +1,5 @@
-﻿using ConceptsPoo;
-
+﻿//C:\Proyectos\Csharp Ruta donde esta la Carpeta "ConceptsPoo"
+using ConceptsPoo;
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("=============");
